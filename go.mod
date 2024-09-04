@@ -1,4 +1,4 @@
-module  github.com/Teddyhoang/performance_k6
+module github.com/Teddyhoang/performance_k6
 
 go 1.20
 
@@ -15,7 +15,6 @@ require (
 	github.com/panjf2000/ants/v2 v2.4.3
 	github.com/sirupsen/logrus v1.9.0
 	go.k6.io/k6 v0.45.1
-	github.com/mstoykov/xk6-counter v0.0.1
 )
 
 require (
